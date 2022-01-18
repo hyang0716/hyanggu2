@@ -1,0 +1,50 @@
+
+@font-face {
+  font-family: "Gamja Flower";
+  src: url(../fonts/codropsicons/GamjaFlower-Regular.ttf);
+}
+@font-face {
+  font-family: "Dongle";
+  src: url(../fonts/codropsicons/Dongle-Regular.ttf);
+}
+@font-face {
+  font-family: "DoHyeon";
+  src: url(../fonts/codropsicons/DoHyeon-Regular.ttf);
+}
+.chart-container{
+  position: relative;
+  height: 30px;
+  width: 30px;
+}
+#myChart1{
+position: absolute;
+top: 355px;
+left: 25%;
+}
+#myChart2{
+position: absolute;
+top: 355px;
+left: 25%;
+}
+#myChart3{
+position: absolute;
+top: 355px;
+left: 25%;
+}
+#myChart4{
+position: absolute;
+top: 355px;
+left: 25%;
+}
+#myChart5{
+position: absolute;
+top: 355px;
+left: 25%;
+}
+.chart-container p{
+  position: absolute;
+  top: 80px;
+  left: 450px;
+  font-size: 30px;
+  font-family: "DoHyeon", sans-serif;
+}
